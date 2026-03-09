@@ -12,7 +12,7 @@ An accessible WordPress showcase template with Lottie animations and data-driven
 
 ![React Pulse Robot Screenshot](./public/screenshot.png)
 
-> **[Live Demo →](https://pulse-robot.wpagency.space)**
+> **[Live Demo →](https://react-pulse-robot-wpagencys-projects.vercel.app)**
 
 ## Features
 
@@ -159,13 +159,13 @@ export function Stats() {
 
 | Theme | Description | Demo |
 |-------|------------|------|
-| [Astro Brutalfolio](https://github.com/wpagency/astro-brutalfolio) | Brutalist multilingual portfolio | [Demo](https://brutalfolio.wpagency.space) |
-| [Astro Romance](https://github.com/wpagency/astro-romance) | Romantic pink agency theme | [Demo](https://astro-romance.wpagency.space) |
-| [Astro Starter](https://github.com/wpagency/astro-starter) | Full-featured Astro starter with Three.js | [Demo](https://astro-starter.wpagency.space) |
-| [React Agency Genesis](https://github.com/wpagency/react-agency-genesis) | Premium agency funnel template | [Demo](https://agency-genesis.wpagency.space) |
-| [React Parallax Foundry](https://github.com/wpagency/react-parallax-foundry) | 3D parallax website with R3F | [Demo](https://parallax-foundry.wpagency.space) |
-| [React Rescue Odyssey](https://github.com/wpagency/react-rescue-odyssey) | Story-driven space theme with Supabase | [Demo](https://rescue-odyssey.wpagency.space) |
-| [React Source Seeker](https://github.com/wpagency/react-source-seeker) | Interactive 3D storytelling with PWA | [Demo](https://source-seeker.wpagency.space) |
+| [Astro Brutalfolio](https://github.com/wpagency/astro-brutalfolio) | Brutalist multilingual portfolio | [Demo](https://astro-brutalfolio-wpagencys-projects.vercel.app) |
+| [Astro Romance](https://github.com/wpagency/astro-romance) | Romantic pink agency theme | [Demo](https://astro-romance-wpagencys-projects.vercel.app) |
+| [Astro Starter](https://github.com/wpagency/astro-starter) | Full-featured Astro starter with Three.js | [Demo](https://astro-starter-wpagencys-projects.vercel.app) |
+| [React Agency Genesis](https://github.com/wpagency/react-agency-genesis) | Premium agency funnel template | [Demo](https://react-agency-genesis-wpagencys-projects.vercel.app) |
+| [React Parallax Foundry](https://github.com/wpagency/react-parallax-foundry) | 3D parallax website with R3F | [Demo](https://react-parallax-foundry-wpagencys-projects.vercel.app) |
+| [React Rescue Odyssey](https://github.com/wpagency/react-rescue-odyssey) | Story-driven space theme with Supabase | [Demo](https://react-rescue-odyssey-wpagencys-projects.vercel.app) |
+| [React Source Seeker](https://github.com/wpagency/react-source-seeker) | Interactive 3D storytelling with PWA | [Demo](https://react-source-seeker-wpagencys-projects.vercel.app) |
 
 ## Contributing
 
